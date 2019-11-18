@@ -1,0 +1,42 @@
+//Items
+item.obsidian_ingot.name=Obsidian Ingot
+item.sarconite_ingot.name=Sarconite Ingot
+item.ruby.name=Ruby
+item.emer.name=Emer
+item.hydrocarbon_chunk.name=Hydrocarbon Chunk
+item.azea.name=Azea Crystal
+item.cherry.name=Cherry
+item.dragonfruit.name=Dragonfruit
+item.golden_hass.name=Golden Hass
+
+//Armor
+item.helmet_ruby.name=Ruby Helmet
+item.chestplate_ruby.name=Ruby Chestplate
+item.leggings_ruby.name=Ruby Leggings
+item.boots_ruby.name=Ruby Boots
+
+//Tools
+item.sword_ruby.name=Ruby Sword
+item.pickaxe_ruby.name=Ruby Pickaxe
+item.axe_ruby.name=Ruby Axe
+item.spade_ruby.name=Ruby Spade
+item.hoe_ruby.name=Ruby Hoe
+
+//Staves
+item.hellfire_staff.name=Hellfire Staff
+
+//Blocks
+tile.sarconite_block.name=Sarconite Block
+tile.sarconite_ore.name=Sarconite Ore
+tile.emer_block.name=Emer Block
+tile.candy_cane.name=Candy Cane
+tile.azea_block.name=Block of Azea
+tile.ruby_block.name=Block of Ruby
+tile.azea_ore.name=Azea ore
+tile.candy_cane_block.name=Block of Candy Cane
+tile.emer_ore.name=Emer Ore
+tile.ruby_ore.name=Ruby Ore
+tile.silver_chest.name=Silver Chest
+
+//Tabs
+itemGroup.tutorialmodtab=Tutorial Tab

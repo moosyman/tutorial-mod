@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "tutorialmod:sarconite_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "tutorialmod:sarconite_block",
+        "count": 1
+    }
+}
